@@ -15,13 +15,11 @@ This repository provides a template to make your software project more compliant
 
 **How to organize source code**
 
-[The organization of your source code depends on the progamming language and the purpose of the code. However, here are some general recommendations:
-
 1. Organize your source code in directories. Create a root-directory for the coder with the same name as repository. 
 2. In the root directory include a tests directory for writing test for the source code. For example, in this template, source code should go in the `repo-template` directory.
 3. As the source code grows, keep scripts organized in sub-directories, the rule of thrumb here is to keep related scripts together.
 4. Use meaningful names for directories and scripts, and choose file names carefully.
-5. Separate data from source code.]
+5. Separate data from source code.
 
 > Important: when using this template, keep the stucture suggested in `repo-template`, but change the name to match you repository's name. 
 
